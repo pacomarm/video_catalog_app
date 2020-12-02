@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "youtubeApp"
+    }
+  },
+  "defaultProject": "youtubeApp",
+  "cli": {
+    "analytics": "aee3e64d-481d-433f-b22c-673e03f159fb"
+  }
 }
